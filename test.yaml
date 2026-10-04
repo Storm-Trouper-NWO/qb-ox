@@ -127,10 +127,6 @@ tasks:
     src: ./tmp/Renewed-Weathersync.zip
 
 
-  - action: unzip
-    dest: ./resources/[standalone]
-    src: ./tmp/loadscreen.zip
-
 
 
     # Libs
